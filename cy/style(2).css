@@ -1,0 +1,21 @@
+html{
+    background: rgb(245, 158, 173);
+}
+.scale2{
+    background: url(images/1.png) no-repeat center center;
+    height:800px;
+    background-size:cover;
+    width:2000px;
+
+}
+.scale3{
+    background: url(images/2.png ) no-repeat center center;
+    height:10px;
+    width: 2000px;
+    
+}
+
+.carousel-inner img {
+    width: 100%;
+    height: 100%;
+}
